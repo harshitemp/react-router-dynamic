@@ -8,9 +8,9 @@ To create a **dynamic route** using React Router that displays user details base
 ## Screenshots
 
 Here’s a preview of the app:
+![App Screenshot](public/ss2.png)
 
 ![App Screenshot](public/ss1.png)
-![App Screenshot](public/ss2.png)
 
 
 ## 🛠️ Steps Followed
